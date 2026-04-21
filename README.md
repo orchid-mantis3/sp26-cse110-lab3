@@ -1,2 +1,2 @@
-# Lab 2 - Starter
-link to github page: https://orchid-mantis3.github.io/Lab2_Starter/
+# Lab 3
+link to github page: https://orchid-mantis3.github.io/sp26-cse110-lab3/
